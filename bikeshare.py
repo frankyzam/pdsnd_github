@@ -57,6 +57,8 @@ def get_filters():
             print('\nInvalid input! Please enter a day in the week again.')
     print(f"\nYou have chosen {} as your day.".format(day.title()))
 
+    print('\nYou have chosen {} as your city, {} as your month and {} as your day! Congratulation.'.format(city.title(),month.title(),day.title()))
+
     print('-'*40)
     return city, month, day
 
