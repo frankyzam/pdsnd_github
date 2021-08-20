@@ -34,6 +34,9 @@ The youngest user (if available)
 The most common birth year amongst users (if available)
 Finally, the user is prompted with the choice of restarting the program or not.
 
+Docstrings:
+If you need additional information while reading through the code look in the docstrings.
+
 ### Files used
 chicago.csv - Dataset containing all bikeshare information for the city of Chicago provided by Udacity.
 
